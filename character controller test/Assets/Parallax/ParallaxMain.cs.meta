@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 10e4b02c79dea3d46b37812e8be7d9ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - parallaxImage: {fileID: 6869910790710016731, guid: c65220178b25d884587415972416e737, type: 3}
+  - horizontalParallaxImage: {fileID: 6869910790710016731, guid: 951c84a1d2e725744b291bc44eb241c8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
